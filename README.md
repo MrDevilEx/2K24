@@ -10,6 +10,6 @@ git clone https://github.com/MrDevilEx/2K24.git
 
 cd 2K24
 
-python HAPPY-NEW-YEARS.py
+python version-x.py
 
 [![received-385178150748334.jpg](https://i.postimg.cc/Hnpx6xQt/received-385178150748334.jpg)](https://postimg.cc/FdBNRhCf)
